@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snowdeserr
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java / Typskript /JavaSkript
 - 📫 How to reach me Disocord: snowymowyy
 - ⚡ Fun fact: im new to Java
 
